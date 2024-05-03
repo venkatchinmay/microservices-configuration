@@ -1,4 +1,4 @@
 example.property: "I AM DEV"
 spring.datasource.url: "jdbc:postgresql://postgres:5432/chinmay_dev"
 spring.datasource.username: chinmay
-spring.datasource.password: {cipher}b997448739a92dc37c0f769cca893985775ce56cceaface34d16fbc21fce207f
+spring.datasource.password: "{cipher}b997448739a92dc37c0f769cca893985775ce56cceaface34d16fbc21fce207f"
